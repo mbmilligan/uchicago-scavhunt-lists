@@ -5,3 +5,5 @@ The [ScavHunt](http://scavhunt.uchicago.edu/lore.html) has been held annually on
 Each year a list of 200+ items is released. Copies of previous years' lists 
 [are available](http://scavhunt.uchicago.edu/yore.html) online. This repository collects those, along with
 a variety of supplemental materials, in a form that can easily be fetched in a single operation.
+
+These files have been compiled through the efforts of members of [The Graduate Student and Alumni Scavenger Hunt Team](https://www.scavhunt.net/).
