@@ -1,0 +1,10 @@
+channels:
+    - conda-forge
+dependencies:
+    - matplotlib
+    - jupyterlab>=0.35
+    - pandas
+    - openpyxl
+    - nltk
+    - pip:
+      - jupyterlab_latex
